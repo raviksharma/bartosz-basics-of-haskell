@@ -1,5 +1,5 @@
 # bartosz-basics-of-haskell
-Exercises from Bartosz Milewski's Basics of Haskell Tutorial
+Code and exercises from Bartosz Milewski's Basics of Haskell [Tutorial]
 
 ## run
 
@@ -14,3 +14,5 @@ Linking sq1 ...
 $ ./sq1
 10
 ```
+
+[Totorial]: https://www.schoolofhaskell.com/user/bartosz/basics-of-haskell
