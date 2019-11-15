@@ -15,4 +15,4 @@ $ ./sq1
 10
 ```
 
-[Totorial]: https://www.schoolofhaskell.com/user/bartosz/basics-of-haskell
+[Tutorial]: https://www.schoolofhaskell.com/user/bartosz/basics-of-haskell
